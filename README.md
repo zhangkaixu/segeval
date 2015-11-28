@@ -1,0 +1,2 @@
+# segeval
+chinese segmentation evaluation
